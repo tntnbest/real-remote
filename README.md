@@ -49,10 +49,21 @@
 
 ## 📺 시연 영상 (Demo)
 
-| LCD UI 구현 (LCD) | 가전제품 실제 제어 시연 |
-| :---: | :---: |
-| <video src="images/lcd기본화면.mov" width="350" controls muted autoplay loop></video> | <video src="images/에어컨-시연영상.mov" width="265" controls muted autoplay loop></video> |
-| **Save Mode 진입 및 통신 확인**  | **에어컨/가전 실제 작동 확인**  |
+<table align="center">
+  <tr>
+    <td align="center"><b>LCD UI 구현 및 모드 확인</b></td>
+    <td align="center"><b>가전제품 실제 제어 시연</b></td>
+  </tr>
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/8f49f4c0-a07e-4db5-ab62-fc3f02678b3b" width="350" controls muted autoplay loop></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/65ba55a3-1dd0-4a53-a11d-f03cd982a232" width="200" controls muted autoplay loop></video>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
