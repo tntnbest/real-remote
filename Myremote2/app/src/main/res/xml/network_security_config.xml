@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 개발 편의를 위해 전체 도메인 cleartext 허용 (배포 시엔 특정 도메인만 허용하도록 변경 권장) -->
+    <base-config cleartextTrafficPermitted="true" />
+    <!-- 예: 특정 로컬 서버만 허용하고 싶다면
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.200.105</domain>
+    </domain-config>
+    -->
+</network-security-config>
