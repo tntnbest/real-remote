@@ -1,7 +1,7 @@
 # 📱 진짜 리모컨 (Real Remote)
-제조사 및 기종 제한을 허문 사용자 맞춤형 IR 통합 제어 솔루션
+원격 제어와 다양한 제조사들의 리모컨 통합을 위한 사용자 맞춤형 IR 통합 제어 솔루션
 
-가전제품마다 다른 리모컨을 사용해야 하는 번거로움과 외부 제어의 불가능함을 해결하기 위해 기획되었습니다. STM32, WiFi/BLE, FastAPI, Android를 사용해 어디서든 가전을 제어할 수 있는 시스템을 구축했습니다. 
+가전제품마다 다른 리모컨을 사용해야 하는 번거로움과 외부 제어의 불가능함을 해결하기 위해 기획되었습니다. STM32, WiFi/BLE, FastAPI, Android Studio를 사용해 어디서든 가전을 제어할 수 있는 시스템을 구축했습니다. 
 
 ---
 
@@ -17,7 +17,7 @@
 ### 🛠️ 기술 스택 (Tech Stack)
 * **Embedded**: STM32 Nucleo Board (GPIO, Timer, Wi-Fi/BT 제어) 
 * **Backend**: Python FastAPI, SQLAlchemy, SQL DB 
-* **App**: Android (Kotlin/Java), 전용 커스터마이징 UI 
+* **App**: Android Studio (Kotlin/Java)
 * **Sensors**: IR Receiver/Emitter, 16x2 LCD, Joystick 
 
 ---
